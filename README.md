@@ -10,7 +10,7 @@ Features included:
 * AM/PM indicator.
 * Dynamic greeting based on time.
 * Responsive modern UI.
-* Glow and glassmorphism effects
+* Glow and glassmorphism effects.
 
 Concepts Used:
 
