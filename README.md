@@ -9,7 +9,7 @@ Features included:
 * Current day and date.
 * AM/PM indicator.
 * Dynamic greeting based on time.
-* Responsive modern UI
+* Responsive modern UI.
 * Glow and glassmorphism effects
 
 Concepts Used:
