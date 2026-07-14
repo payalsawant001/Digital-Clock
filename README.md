@@ -6,7 +6,7 @@ This project displays the current time in real-time with automatic updates every
 Features included:
 
 * Live HH : MM : SS clock
-* Current day and date
+* Current day and date.
 * AM/PM indicator
 * Dynamic greeting based on time
 * Responsive modern UI
