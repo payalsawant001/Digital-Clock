@@ -7,7 +7,7 @@ Features included:
 
 * Live HH : MM : SS clock
 * Current day and date.
-* AM/PM indicator
+* AM/PM indicator.
 * Dynamic greeting based on time
 * Responsive modern UI
 * Glow and glassmorphism effects
