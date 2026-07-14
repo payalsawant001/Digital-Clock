@@ -14,7 +14,7 @@ Features included:
 
 Concepts Used:
 
-* JavaScript Date Object
+* JavaScript Date Object.
 * DOM Manipulation
 * setInterval()
 * Functions
